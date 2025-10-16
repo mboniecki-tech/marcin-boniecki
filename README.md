@@ -20,6 +20,7 @@ Uwielbiam tworzyć rozwiązania, które nie tylko działają, ale są **logiczne
 ## 🧠 Technologie i narzędzia
 `Windows` · `Linux` · `Hardware diagnostics` · `Networking basics`  
 `Excel / VBA` · `Python (podstawy)` · `IT Support tools` · `Cybersecurity fundamentals`  
+`Active Directory` · `Microsoft 365` · `CompTIA A+` · `BIOS/UEFI`
 
 ---
 
