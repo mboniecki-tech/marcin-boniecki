@@ -91,7 +91,7 @@ Jak widać na zdjęciu, uznał pudełko po GPU za najlepsze możliwe miejsce do 
 ---
 
 ## 🌐 Gdzie mnie znaleźć
-💼 **LinkedIn:** [Marcin Boniecki](www.linkedin.com/in/marcin-b-881802330)  
+💼 **LinkedIn:** [Marcin Boniecki](https://www.linkedin.com/in/marcin-b-881802330)
 ⚙️ **GitHub:** [mboniecki-tech](https://github.com/mboniecki-tech)
 
 ---
